@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e023407-6ee9-41b8-8f53-03c66f6f3e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IE/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="1e023407-6ee9-41b8-8f53-03c66f6f3e31" name="Default Changelist" comment="gggg">
+      <change afterPath="$PROJECT_DIR$/templates/IE/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/Activate.ps1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
@@ -4409,13 +4396,22 @@
       <change afterPath="$PROJECT_DIR$/venv/share/python-wheels/six-1.14.0-py2.py3-none-any.whl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/share/python-wheels/urllib3-1.25.8-py2.py3-none-any.whl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/share/python-wheels/webencodings-0.5.1-py2.py3-none-any.whl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/IE/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/House/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/House/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/House/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IE/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/IE/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -4427,6 +4423,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -4464,11 +4461,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643920115755</updated>
-      <workItem from="1643920138647" duration="297000" />
+      <workItem from="1643920138647" duration="891000" />
     </task>
+    <task id="LOCAL-00001" summary="gggg">
+      <created>1643920583946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643920583946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gggg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gggg" />
   </component>
 </project>
